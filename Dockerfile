@@ -20,3 +20,4 @@ EXPOSE 5006
 WORKDIR Coronavirus_data_visualization
 
 CMD ["bokeh", "serve", "--show", "resulting.py"]
+
