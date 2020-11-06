@@ -16,6 +16,7 @@ This is a project about visualization of Covid-19 data.
 ![screenshot](/screenshot/bokeh_install.png)
 ![screenshot](/screenshot/pandas_install.png)
 - `pip freeze > requirements.txt` to save dependencies
+
 ![screenshot](/screenshot/requirements.png)
 
 ### Step 3: Run the script using bokeh serve to do visualization
